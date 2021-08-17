@@ -5,5 +5,10 @@
   "main": "template.js",
   "repository": "https://github.com/oc-anthony/mern-starter",
   "author": "oc-anthony",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-loader": "^8.2.2"
+  }
 }
